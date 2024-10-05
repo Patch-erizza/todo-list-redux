@@ -1,0 +1,9 @@
+.root {
+    border: 1px solid #7b757a;
+    padding: 20px;
+    border-radius: 5px;
+}
+._isDark {
+    background-color: #535bf2;
+    color: white;
+}

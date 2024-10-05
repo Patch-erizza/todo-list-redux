@@ -1,0 +1,22 @@
+.nawBar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    background-color: rgba(155, 155, 239, 0.89);
+    color: white;
+    padding: 0 20px;
+}
+.currentUser {
+
+}
+.language {
+    background-color: rgba(155, 155, 239, 0.89);
+    color: white;
+    border-radius: 8px;
+    padding: 5px;
+}

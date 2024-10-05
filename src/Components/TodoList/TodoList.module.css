@@ -1,0 +1,22 @@
+.spanNames {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.todoListWrapper {
+    display: flex;
+    flex-direction: column;
+}
+.completedItems {
+    color: #8f8f8f !important;
+}
+.isEmpty {
+    color: #8f8f8f;
+    font-style: italic;
+    text-align: center;
+    padding-top: 10px;
+}
+hr {
+    z-index: 1;
+    color: #1a1a1a;
+}

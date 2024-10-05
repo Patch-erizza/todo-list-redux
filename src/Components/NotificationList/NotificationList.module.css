@@ -1,0 +1,15 @@
+.notificationWrapper {
+    display: flex;
+    flex-direction: column;
+}
+.spanNames {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.isEmpty {
+    color: #8f8f8f;
+    font-style: italic;
+    text-align: center;
+    padding-top: 10px;
+}
